@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Fruits And Plant Detector</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_rateus">Rate Us</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_other_apps">My Other Apps</string>
+    <string name="about_developer">About Developer</string>
+    <string name="feedback">Feedback</string>
+    <string name="app_Version_name">Version 1.2</string>
+    <string name="developer_name">Ashish Kumar</string>
+    <string name="about_me">Hi Guys, I am Ashish a keen android developer. You can classify 30 different types of plant and fruits live using your camera with the help of Artificial Intelligence. I hope you guys will like this app. If there is any concern. Please feel free to contact or send feedback!!</string>
+    <string name="connect_me">Connect Me On:</string>
+    <string name="share_app">Share Apps</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="myotherapps">My Other Apps</string>
+    <string name="nav_otherapps">My Other App</string>
+    <string name="menu_send_Link">Send Link</string>
+
+    <string name="classified">Classified as: </string>
+    <string name="confidences">Confidences</string>
+    <string name="Take">Take Picture</string>
+
+    <string-array name="Suite">
+        <item>Aloevera</item>
+        <item>Banana</item>
+        <item>Bilimbi</item>
+        <item>Cantaloupe</item>
+        <item>Cassava</item>
+        <item>Coconut</item>
+        <item>Corn</item>
+        <item>Cucumber</item>
+        <item>Curcuma</item>
+        <item>Eggplant</item>
+        <item>Galangal</item>
+        <item>Ginger</item>
+        <item>Guava</item>
+        <item>Kale</item>
+        <item>Longbeans</item>
+        <item>Mango</item>
+        <item>Melon</item>
+        <item>Orange</item>
+        <item>Paddy</item>
+        <item>Papaya</item>
+        <item>Peper chili</item>
+        <item>Pineapple</item>
+        <item>Pomelo</item>
+        <item>Shallot</item>
+        <item>Soybeans</item>
+        <item>Spinach</item>
+        <item>Sweet Potatoes</item>
+        <item>Tobacco</item>
+        <item>Waterapple</item>
+        <item>Watermelon</item>
+    </string-array>
+</resources>
